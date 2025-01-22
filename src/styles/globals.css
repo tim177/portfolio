@@ -10,7 +10,7 @@ body {
 body,
 * {
   box-sizing: content-box;
-  cursor: none;
+  /* cursor: none; */
 }
 
 ::selection {
@@ -33,7 +33,7 @@ body,
   transition:
     width 0.2s ease-in-out,
     height 0.2s ease-in-out;
-  cursor: none !important;
+  /* cursor: none !important; */
 }
 
 @media screen and (max-width: 768px) {

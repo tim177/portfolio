@@ -42,21 +42,20 @@ export const siteConfig: {
   };
 } = {
   baseUrl: 'https://muhammadfiaz.com',
-  author: 'Muhammad Fiaz',
-  author_surname: 'Fiaz',
-  titlePrefix: 'Muhammad Fiaz',
-  profile_image:
-    'https://avatars.githubusercontent.com/u/75434191?s=400&u=0aa88e4ae941c44425b2be4595cf92b68f578f8a&v=4',
+  author: 'Amit Singh',
+  author_surname: 'Singh',
+  titlePrefix: 'Amit Singh',
+  profile_image: 'https://avatars.githubusercontent.com/u/79762903?v=4',
   form_id: 'https://formspree.io/f/myzynpbr',
   social: {
     kofi: 'https://ko-fi.com/muhammadfiaz',
     sponsor: 'https://github.com/sponsors/muhammad-fiaz',
-    email: 'contact@muhammadfiaz.com',
+    email: 'timaraw18@gmail.com',
     twitter: '@muhammadfiaz_',
     github: 'muhammad-fiaz',
     linkedin: 'https://www.linkedin.com/in/muhammad-fiaz-/',
     blog: 'https://articles.muhammadfiaz.com',
-    medium: 'https://muhammad-fiaz.medium.com',
+    medium: 'https://medium.com/@amit.singh_37203',
     dev: 'https://dev.to/muhammadfiaz',
     hashnode: 'https://muhammadfiaz.hashnode.dev',
     discord: 'https://discord.gg/mXMhy2EX',
@@ -68,9 +67,9 @@ export const siteConfig: {
     holopin: 'muhammadfiaz'
   },
   metadata: {
-    description: `Hi! I'm Muhammad Fiaz, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
+    description: `Hi! I'm Amit Singh, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
     keywords:
-      'Muhammad Fiaz, Full Stack Developer, Muhammad Fiaz portfolio, Muhammad Fiaz GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
+      'Amit Singh, Full Stack Developer, Amit Singh portfolio, Amit Singh GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
     type: 'website'
   },
   chatbot: {

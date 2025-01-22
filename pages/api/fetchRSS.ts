@@ -33,7 +33,9 @@ export default async function handler(
 
   try {
     const parser = new Parser();
-    const feed = await parser.parseURL(`${siteConfig.social.blog}/rss.xml`);
+    const feed = await parser.parseURL(
+      'https://medium.com/feed/@amit.singh_37203'
+    );
 
     // Assuming `feed.items` contains a `categories` field for tags
     const blogs: BlogPost[] = feed.items.map((item: any) => ({

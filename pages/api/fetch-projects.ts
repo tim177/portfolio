@@ -38,7 +38,7 @@ export default async function handler(
 
     // Fetch data from GitHub API
     const response = await fetch(
-      `https://api.github.com/users/${GITHUB_USERNAME}/repos?sort=updated&per_page=100`,
+      `https://api.github.com/users/tim177/repos?sort=updated&per_page=100`,
       {
         headers: {
           Authorization: `token ${GITHUB_TOKEN}`

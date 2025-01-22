@@ -77,14 +77,14 @@ const AboutSection = () => {
           <ContactMe />
         </AnimationContainer>
         {/* Support Me Section */}
-        <AnimationContainer customClassName="w-full mt-16">
+        {/* <AnimationContainer customClassName="w-full mt-16">
           <SupportMe />
-        </AnimationContainer>
+        </AnimationContainer> */}
 
         {/* FAQ Section */}
-        <AnimationContainer customClassName="w-full mt-16">
+        {/* <AnimationContainer customClassName="w-full mt-16">
           <FAQSection />
-        </AnimationContainer>
+        </AnimationContainer> */}
       </div>
     </SectionContainer>
   );

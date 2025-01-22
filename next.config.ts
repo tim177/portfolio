@@ -3,6 +3,7 @@ import { validateEnvVars } from '@/src/configs/envVars';
 
 // Validate and assign default values to environment variables
 validateEnvVars();
+console.log('GITHUB_TOKEN:', process.env.GITHUB_TOKEN);
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
