@@ -24,7 +24,7 @@
     "@google/generative-ai": "^0.21.0",
     "@mantine/carousel": "^5.10.5",
     "@mantine/core": "^5.10.5",
-    "@mantine/hooks": "^5.10.5",
+    "@mantine/hooks": "^7.17.0",
     "@nextui-org/avatar": "^2.2.5",
     "@nextui-org/button": "^2.2.8",
     "@nextui-org/dropdown": "^2.3.8",
